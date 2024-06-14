@@ -1,9 +1,10 @@
 ﻿# Project : blogPosting
 ## Tech Scack Used : 
-- ExpressJS
+- ExpressJS 
 - MySQL
 - Sequelize ORM
 - Postman (For validity purpose)
+- JWT authentication
 ## Before firing up the server : 
 - run this command
   ``` npm i ```
